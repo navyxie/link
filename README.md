@@ -3,3 +3,4 @@
 + [伯乐在线](http://www.jobbole.com/)
 + [掘金](http://gold.xitu.io/#/explore)
 + [迷度](http://justjavac.com/)
++ [颜海镜](http://yanhaijing.com/)
