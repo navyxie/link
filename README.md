@@ -4,3 +4,4 @@
 + [掘金](http://gold.xitu.io/#/explore)
 + [迷度](http://justjavac.com/)
 + [颜海镜](http://yanhaijing.com/)
++ [jsfuck](http://www.jsfuck.com/)
