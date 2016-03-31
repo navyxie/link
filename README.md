@@ -5,3 +5,4 @@
 + [迷度](http://justjavac.com/)
 + [颜海镜](http://yanhaijing.com/)
 + [jsfuck](http://www.jsfuck.com/)
++ [2016年的前端技术栈展望](http://toutiao.com/a6263165060115775746/)
