@@ -10,3 +10,5 @@
 + [高质量前端资源汇聚](http://div.io/)
 + [前端开发博客](http://caibaojian.com/)
 + [前端小武](https://xuexb.com/)
++ [ido321](http://www.ido321.com/)
++ [php101](http://www.php101.cn/)
