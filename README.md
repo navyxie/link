@@ -8,3 +8,5 @@
 + [2016年的前端技术栈展望](http://toutiao.com/a6263165060115775746/)
 + [醉牛前端](http://f2er.club/)
 + [高质量前端资源汇聚](http://div.io/)
++ [前端开发博客](http://caibaojian.com/)
++ [前端小武](https://xuexb.com/)
