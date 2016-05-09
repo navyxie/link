@@ -15,3 +15,4 @@
 + [前端小武](https://xuexb.com/)
 + [ido321](http://www.ido321.com/)
 + [php101](http://www.php101.cn/)
++ [一步步搭建物联网系统](http://ebook.designiot.cn/)
