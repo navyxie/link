@@ -19,3 +19,4 @@
 + [单文件组件下的vue，可以擦出怎样的火花](https://segmentfault.com/a/1190000005168085)
 + [JavaScript中的不可变性(Immutability)](https://segmentfault.com/a/1190000004906518)
 + [nodejs 代码覆盖率](http://www.imooc.com/article/4773)
++ [基于Redis实现简单的分布式锁](http://my.oschina.net/andylucc/blog/677797#OSC_h2_5)
