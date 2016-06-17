@@ -25,3 +25,4 @@
 + [web performance monitor](http://www.lognormal.com/boomerang/doc/use-cases.html)
 + [Embeddable script for displaying web page performance metrics](https://github.com/okor/justice)
 + [简单的利用time来检查网页性能](https://github.com/WPOTools/timeit)
++ [http://otakustay.com/es6-develop-overview/](http://otakustay.com/es6-develop-overview/)
