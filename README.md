@@ -29,3 +29,4 @@
 + [http://huntnews.in/](http://huntnews.in/)
 + [http://qiqu.uc.cn/](http://qiqu.uc.cn/)
 + [typescript gitbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
++ [influxdb](https://docs.influxdata.com/influxdb/v0.13/)
