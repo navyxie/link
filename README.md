@@ -32,3 +32,4 @@
 + [typescript gitbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 + [influxdb](https://docs.influxdata.com/influxdb/v0.13/)
 + [page performance monitor](https://github.com/mrdoob/stats.js)
++ [borwser support](http://caniuse.com/)
