@@ -35,3 +35,4 @@
 + [borwser support](http://caniuse.com/)
 + [图片-雪碧图生成网站](http://responsive-css.spritegen.com/)
 + [influx教程](https://xtutu.gitbooks.io/influxdb-handbook/content/jie_xia_qu_ke_yi_kan_xie_shen_me.html)
++ [influx教程](https://sdvdxl.gitbooks.io/influxdb/content/cha_xun_yu_yan.html)
