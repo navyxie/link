@@ -38,3 +38,4 @@
 + [influx教程](https://sdvdxl.gitbooks.io/influxdb/content/cha_xun_yu_yan.html)
 + [如何适配不同分辨率和不同屏幕尺寸的手机](http://www.html5cn.org/article-9368-1.html)
 + [ 淘宝前端：移动端端图片的优化流程](http://frontenddev.org/link/taobao-front-end-mobile-end-to-end-the-optimization-process-of-pictures.html)
++ [webpack](http://webpack.toobug.net/zh-cn/chapter3/chunks.html)
