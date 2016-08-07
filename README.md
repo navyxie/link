@@ -39,3 +39,4 @@
 + [如何适配不同分辨率和不同屏幕尺寸的手机](http://www.html5cn.org/article-9368-1.html)
 + [ 淘宝前端：移动端端图片的优化流程](http://frontenddev.org/link/taobao-front-end-mobile-end-to-end-the-optimization-process-of-pictures.html)
 + [webpack](http://webpack.toobug.net/zh-cn/chapter3/chunks.html)
++ [webpack 工作流](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html)
