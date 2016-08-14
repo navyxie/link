@@ -40,3 +40,6 @@
 + [ 淘宝前端：移动端端图片的优化流程](http://frontenddev.org/link/taobao-front-end-mobile-end-to-end-the-optimization-process-of-pictures.html)
 + [webpack](http://webpack.toobug.net/zh-cn/chapter3/chunks.html)
 + [webpack 工作流](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html)
++ [web性能优化](https://github.com/fouber/blog/issues/1)
++ [静态资源版本更新与缓存（上）](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
++ [静态资源管理与模板框架（下）]()http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2
