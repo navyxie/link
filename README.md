@@ -44,3 +44,4 @@
 + [静态资源版本更新与缓存（上）](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
 + [静态资源管理与模板框架（下）](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
 + [百度张云龙博客](https://github.com/fouber/blog)
++ [模块加载代码参考](https://github.com/umdjs/umd)
