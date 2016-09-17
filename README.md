@@ -45,3 +45,4 @@
 + [静态资源管理与模板框架（下）](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
 + [百度张云龙博客](https://github.com/fouber/blog)
 + [模块加载代码参考](https://github.com/umdjs/umd)
++ [https://github.com/mafintosh/protocol-buffers](https://github.com/mafintosh/protocol-buffers)
