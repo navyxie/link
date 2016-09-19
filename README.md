@@ -47,3 +47,4 @@
 + [模块加载代码参考](https://github.com/umdjs/umd)
 + [https://github.com/mafintosh/protocol-buffers](https://github.com/mafintosh/protocol-buffers)
 + [top star 100 js frameword](http://stats.js.org/)
++ [前端博客](https://github.com/joeyguo/blog)
