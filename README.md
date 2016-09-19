@@ -48,3 +48,4 @@
 + [https://github.com/mafintosh/protocol-buffers](https://github.com/mafintosh/protocol-buffers)
 + [top star 100 js frameword](http://stats.js.org/)
 + [前端博客](https://github.com/joeyguo/blog)
++ [threejs.js入门教程 ](https://read.douban.com/reader/ebook/7412854/)
