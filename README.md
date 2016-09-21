@@ -54,3 +54,4 @@
 + [Hilo](https://github.com/hiloteam/Hilo)
 + [cyclsjs](https://github.com/cyclejs/cyclejs)
 + [flux中文教程](https://hulufei.gitbooks.io/react-tutorial/content/flux.html)
++ [android 教程](http://hukai.me/android-training-course-in-chinese/index.html)
