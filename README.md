@@ -56,3 +56,4 @@
 + [flux中文教程](https://hulufei.gitbooks.io/react-tutorial/content/flux.html)
 + [android 教程](http://hukai.me/android-training-course-in-chinese/index.html)
 + [js模式](http://shichuan.github.io/javascript-patterns/)
++ [git用法大全](https://github.com/521xueweihan/git-tips)
